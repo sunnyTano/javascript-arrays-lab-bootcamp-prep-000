@@ -12,7 +12,7 @@ function destructivelyPrependKitten(name){
   return name;
 }
 
-function 
+function destructivelyRemoveLastKitten()
 /*
 
 
