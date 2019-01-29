@@ -12,7 +12,7 @@ function destructivelyPrependKitten(name){
   return name;
 }
 
-functi
+function 
 /*
 
 
